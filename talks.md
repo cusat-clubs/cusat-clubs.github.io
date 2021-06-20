@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Past Events
 layout: page
 ---
 
@@ -41,3 +41,47 @@ We are very excited for you to be a part of this webinar. See you soon.
 
 - **Youtube Link** - [A DAY IN THE LIFE OF A DATA SCIENTIST](https://www.youtube.com/watch?v=fGLfuR3JSFw)
 - **Date**: June 5, 2021
+
+## IMPORTANCE OF CORE SUBJECTS - COMPUTER SCIENCE
+
+<img src="/assets/images/session 3,4.jpg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
+
+CUSAT clubs proudly brings you yet another webinar session on " Core subjects in Computer science". All those who are out there  passionate about Computer science subjects such as (subjects name) regardless of whichever stream you may have chosen but completely clueless on how to get started?  The webinar has got you covered! You get to learn about where the possibility is and how to master your skills in that arena from our speaker, M D Faizan, SDE 1 at Amazon and an alumni of CUSAT 2019 IT batch.
+
+So don't miss out this opportunity. Join with us and hear from the best!
+
+
+
+- **Youtube Link** - [Importance Of Core Subjects In Computer Science](https://www.youtube.com/watch?v=nyOu8vLoe9Q)
+- **Date**: June 12, 2021
+
+## HOW TO GET STARTED WITH DATA STRUCTURES AND ALGORITHMS IN COLLEGE?
+
+Excited and curious about Data Structure Algorithms? Want to learn more about them from the expert?Data Structures are inevitable as they allow programmers to do data management efficiently. A wise selection of data structures can improve the performance of a computer program or algorithm in several ways. CUSAT clubs brings you a webinar session on "Data Structure Algorithm" to let you explore this hot topic with the right technical expert. Our speaker is M D Faizan, SDE 1 at Amazon and an alumni of CUSAT 2019 IT batch. 
+
+Join with us and hear from the best! Mark the date and make the most of this amazing opportunity!
+
+
+
+- **Youtube Link** - [How to get started with data structures and algorithms in college?](https://www.youtube.com/watch?v=qoFy3x0Pdtc)
+- **Date**: June 13, 2021
+
+## VIEWING THROUGH A SECURE LENS... IS IT A RIGHT CAREER?
+
+<img src="/assets/images/session 5.jpg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
+
+“It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” – Stephane Nappo
+
+Confused if you should look for a career in Cybersecurity? Have you been fascinated by the same but don't know where to begin? We make sure that you hear the road to cybersecurity from experts! Lekshmi Menon and Sabna Sainudeen are our speakers for the day on "Viewing through a secure lens...Is it a right career?" on CUSAT clubs. Lekshmi Nair, a cyber security expert is a well known leader, with her commitment to enable the next generation cybersecurity workforce.
+
+A passionate leader and a Cyber security evangelist, Lekshmi was the Chair of the Women in Security Excelling- India Chapter in IBM consisting of 600+ members. She's an expert in the field of Security, Risk and Compliance, Privacy, Data Security and Application Security. She's currently Managing Principal, Synopsys Software Integrity Solutions. 
+
+Sabna Sainudeen is a senior cyber security leader with exceptional skills and experience into mobile, cloud and IoT security. She's currently Security Operational leader (Edison Expert) for Schneider Electric. She is an expert in Big data, BI and analytics platform Security. 
+
+Mark the date in the calendar to make sure you don't miss this opportunity!
+
+
+
+- **Youtube Link** - [Viewing through a secure lens... Is it a right career](https://www.youtube.com/watch?v=HWtLP2H5ls8)
+- **Date**: June 19, 2021
+

@@ -9,7 +9,7 @@ description: Collaborative effort by various clubs in Cusat
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-#picture: assets/images/profile.jpg
+picture: assets/images/cusat.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -17,7 +17,7 @@ resume: false
 resume-local: false
 #resume-url: 
 
-#url: 
+url: https://cusat-clubs.github.io/ 
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -77,6 +77,7 @@ projects: true
 about: true
 blog: true
 talks: true
+speakers: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -105,3 +106,5 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+
+exclude: [node_modules]
