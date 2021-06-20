@@ -68,7 +68,7 @@ Join with us and hear from the best! Mark the date and make the most of this ama
 
 ## VIEWING THROUGH A SECURE LENS... IS IT A RIGHT CAREER?
 
-<img src="/assets/images/session 5.jpg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
+<img src="/assets/images/Session 5.jpg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
 
 “It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” – Stephane Nappo
 
