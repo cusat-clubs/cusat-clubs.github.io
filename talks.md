@@ -95,6 +95,6 @@ Mark the date in the calendar to make sure you don't miss this opportunity!
 
 
 
-- **Youtube Link** - [Job Opportunities in the field of Electronics and Electrical Engineering]()
+- **Youtube Link** - [Job Opportunities in the field of Electronics and Electrical Engineering](https://www.youtube.com/watch?v=0brqeIXYiXw)
 - **Date**: June 26, 2021
 
