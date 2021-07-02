@@ -39,4 +39,10 @@ layout: page
 
 - **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/sabna-sainudeen/" target="_blank">https://www.linkedin.com/in/sabna-sainudeen/</a>
 - She is a senior cyber security leader with exceptional skills and experience into mobile, cloud and IoT security. She's currently Security Operational leader (Edison Expert) for Schneider Electric. She is an expert in Big data, BI and analytics platform Security.
-. 
+
+## Sharad Sharma
+
+<img src="/assets/images/Session 6.jpg" width="200" height="200" style="border-radius: 100%; margin-top: 20px;">
+
+- **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/sharads/" target="_blank">https://www.linkedin.com/in/sharads/</a>
+- He is the principal Engineer/Manager at Broadcom Technologies India Pvt. Ltd. Hear him talk to us from his 18 years of career experience. Being a Cusat Alumini himself and a life long learner, he’s here to motivate us and talk to us from an industrial perspective.
