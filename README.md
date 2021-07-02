@@ -13,7 +13,7 @@ Excited to skill up and hear what lays ahead? Make sure to subscribe to our chan
 
 
 
-![Cusat clubs](/assets/images/Event Brite Banner.png)
+![Cusat clubs](https://github.com/cusat-clubs/cusat-clubs.github.io/blob/master/assets/images/Event%20Brite%20Banner.png)
 
 
 For more details check out our [website](https://cusat-clubs.github.io//)
