@@ -103,7 +103,7 @@ Mark the date in the calendar to make sure you don't miss this opportunity!
 <img src="/assets/images/Session7.JPG" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
 
 “I don’t need a hard disk in my computer if I can get to the server faster… carrying around these non-connected computers is byzantine by comparison.” 
- - Steve Jobs, Co-founder, CEO, and Chairman, Apple Inc.
+ -Steve Jobs, Co-founder, CEO, and Chairman, Apple Inc.
 Today we are in the era of cloud and cloud computing. It’s true. The cloud offers access to data from anywhere, at any time, on any compatible device. This mobility expedites processes, improves collaboration, and empowers employees working remotely.
 It is a necessity in today's world to know about Cloud, its basics, features, services, and many more.
 
