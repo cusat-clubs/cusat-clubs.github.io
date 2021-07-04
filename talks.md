@@ -119,7 +119,7 @@ Mark the date in the calendar to make sure you don't miss this opportunity!
 
 - **Youtube Link** - [Cloud Concepts: Basics and Beyond](https://www.youtube.com/watch?v=6YbDdAHzrqg)
 - **Date**: July 3, 2021
-- 
+ 
 <!--
 ## HOW TO CRACK CISCO INTERVIEW?
 
