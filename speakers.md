@@ -75,3 +75,19 @@ layout: page
 - **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/georgemohan/" target="_blank">https://www.linkedin.com/in/georgemohan/</a>
 - He is the Head – Global HSE & Sustainability at Metso Outotec, an alumni with a BTech in Safety and Fire Engineering. (2001) and that too from our college!!
 He also completed his Post Graduation from the prestigious National Institute of Industrial Engineering (NITIE), Mumbai.
+
+## Vishal Arya
+
+<img src="/assets/images/Vishal Arya.jpeg" width="200" height="200" style="border-radius: 100%; margin-top: 20px;">
+
+- **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/wisharya/" target="_blank">https://www.linkedin.com/in/wisharya/</a>
+- He is currently working as the Community Relation at FOSS United.
+
+## Anand Chitipothu
+
+<img src="/assets/images/Anand Chitipothu.jpeg" width="200" height="200" style="border-radius: 100%; margin-top: 20px;">
+
+- **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/anandology/" target="_blank">https://www.linkedin.com/in/anandology/</a>
+- He works as the Software Artisan at FOSS United.
+
+
