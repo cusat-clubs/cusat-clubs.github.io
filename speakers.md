@@ -67,3 +67,11 @@ layout: page
 
 - **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/rajeswarisuance/" target="_blank">https://www.linkedin.com/in/rajeswarisuance/</a>
 - She is a Software Engineer at TCS
+
+## George Mohan
+
+<img src="/assets/images/George Mohan.jpeg" width="200" height="200" style="border-radius: 100%; margin-top: 20px;">
+
+- **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/georgemohan/" target="_blank">https://www.linkedin.com/in/georgemohan/</a>
+- He is the Head – Global HSE & Sustainability at Metso Outotec, an alumni with a BTech in Safety and Fire Engineering. (2001) and that too from our college!!
+He also completed his Post Graduation from the prestigious National Institute of Industrial Engineering (NITIE), Mumbai.
