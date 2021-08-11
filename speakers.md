@@ -60,3 +60,10 @@ layout: page
 
 - **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/contactshantanugarg/" target="_blank">https://www.linkedin.com/in/contactshantanugarg/</a>
 - He is a Software Engineer at Cisco Bangalore to handle this session. He was a bright student in college. Had a few startups. Was a CEO at InnovaDev Student Community. Got selected as a Security Consulting Engineer at Cisco in 2019.
+
+## Rajeswari Suance
+
+<img src="/assets/images/Rajeswari.jpg" width="200" height="200" style="border-radius: 100%; margin-top: 20px;">
+
+- **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/rajeswarisuance/" target="_blank">https://www.linkedin.com/in/rajeswarisuance/</a>
+- She is a Software Engineer at TCS
