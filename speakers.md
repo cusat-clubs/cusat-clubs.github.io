@@ -90,4 +90,12 @@ He also completed his Post Graduation from the prestigious National Institute of
 - **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/anandology/" target="_blank">https://www.linkedin.com/in/anandology/</a>
 - He works as the Software Artisan at FOSS United.
 
+## Livin Natious
+
+<img src="/assets/images/Livin Natious.JPG" width="200" height="200" style="border-radius: 100%; margin-top: 20px;">
+
+- **LinkedIn**: <a style="color: #666;" href="https://www.linkedin.com/in/livinnatious/" target="_blank">https://www.linkedin.com/in/livinnatious/</a>
+- He is an aspiring data science business professional and has a masters degree from University of Bonn, Germany.
+
+
 
