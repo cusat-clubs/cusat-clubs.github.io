@@ -212,7 +212,7 @@ Mark the date in the calendar to make sure you don't miss this opportunity!
 
 ## LANDING YOUR DREAM JOB
 
-<img src="/assets/images/Session 12.jpg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
+<img src="/assets/images/Session_13.jpeg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
 
 Hey,
 Are you eager to know about DevOps and its role in technology... 🤔?
