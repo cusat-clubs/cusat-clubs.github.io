@@ -244,7 +244,7 @@ Mark the date in the calendar to make sure you don't miss this opportunity!
 
 ## MY JOURNEY THROUGH DATA ANALYTICS
 
-<img src="/assets/images/session_14.jpeg" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
+<img src="/assets/images/Session 15.png" width="400" height="500" style="border-radius: 8px; margin-top: 15px;">
 
 CUSAT Clubs is delighted to announce that MS ANILA VISWAMBHARAN will be amidst us to untangle our cluster of dilemmas about Data Analytics.
 She is the manager, data analytics, Bank-fund staff federal credit union. She has worked relentlessly for 17 years with various analytics platform, tools and functions to mould herself into what she is today. 
